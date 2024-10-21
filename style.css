@@ -4,14 +4,12 @@
   box-sizing: border-box;
 }
 :root {
- --text-color: rgb(17, 17, 17);
+ --text-color: black;
   --bg-url: url(assets/bg-mobile-light.jpg);
   --surface-color: rgba(0, 0, 0, 0.05);
   --stroker-color: rgba(0, 0, 0, 0.5);
   --surface-color-hover: rgba(0, 0, 0, 0, 0.02);
   --hightlig-color: rgba(0, 0, 0, 0.1);
-
-
   --switch-bg-url: url(assets/sun.svg);
 }
 .light {
@@ -169,7 +167,7 @@ footer {
   }
 
   .light {
-    --bg-url: url(assets/bg-desktop.jpg) ;
+    --bg-url: url(assets/bg-mobile.jpg) ;
   }
 }
 
