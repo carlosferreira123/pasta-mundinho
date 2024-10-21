@@ -54,6 +54,7 @@ body * {
   border-radius: 42px 42px ;
 }
 #profile p {
+  padding-block: 6px;
   font-weight: 500;
   line-height: 24px;
 }
