@@ -7,11 +7,21 @@ body {
   color: white;
   background: rgb(247, 90, 208);
   font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap:wrap;
+
+ margin: 56px auto 0px;
+  
+  
 }
 
 header {
   display: flex;
   justify-content: center;
+
+  
 }
 
 div {
@@ -19,7 +29,7 @@ div {
   justify-content: center;
   align-items: center;
 
-  margin: 40% auto;
+  
   
 }
 main {
