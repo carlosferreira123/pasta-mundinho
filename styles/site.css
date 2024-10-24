@@ -42,6 +42,8 @@ main {
 
 a {
   display: flex;
+  align-items: center;
+  
   margin-top: 10px;
   font-size: 20px;
   list-style: none;
@@ -49,7 +51,7 @@ a {
   color: rgb(21, 56, 252);
   background: white;
   
-  padding: 5px;
+  padding: 4px;
   border-radius: 12px;
   transition: background 0.3s;
   
